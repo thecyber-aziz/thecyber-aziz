@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-azizansari.vercel.app-blue?style=flat-square&logo=vercel)](https://azizansari.vercel.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-thecyber03-black?style=flat-square&logo=github)](https://github.com/thecyber-aziz)  
+[![GitHub](https://img.shields.io/badge/GitHub-thecyber-aziz-black?style=flat-square&logo=github)](https://github.com/thecyber-aziz)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-azizansari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/azizansari)  
 [![Gmail](https://img.shields.io/badge/Email-abdulaziz86723@gmail.com-red?style=flat-square&logo=gmail)](mailto:abdulaziz86723@gmail.com)  
 
